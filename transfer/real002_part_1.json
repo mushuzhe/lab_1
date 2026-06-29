@@ -1,0 +1,12 @@
+{
+  "bits": 1,
+  "channels": "RGB",
+  "created_at": "2026-06-29T08:07:49.251209+00:00",
+  "image_path": "real002_part_1.png",
+  "message_id": "real002",
+  "original_sha256": "2b91f1ca8a9f7b481b2c61ec0eb7c8ba372bfc5b1b7e6afac041eed003d57634",
+  "original_size": 24,
+  "part_count": 2,
+  "part_index": 1,
+  "part_sha256": "89d13556bdd7d93fe3d537cf9674f1c355451d1915cc057077e6a8e20841f523"
+}
