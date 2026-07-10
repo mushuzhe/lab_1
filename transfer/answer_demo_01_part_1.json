@@ -1,0 +1,12 @@
+{
+  "bits": 1,
+  "channels": "RGB",
+  "created_at": "2026-07-10T01:25:28.380349+00:00",
+  "image_path": "answer_demo_01_part_1.png",
+  "message_id": "answer_demo_01",
+  "original_sha256": "026f4a8fcee270c78b166b3514af104a4afc2a3834f1a80394a392772a7c0730",
+  "original_size": 21,
+  "part_count": 2,
+  "part_index": 1,
+  "part_sha256": "30207f1192d8eae23c8199c4ea85bc17e3140b582a2e4e888c977c5b14c21b8c"
+}
